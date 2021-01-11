@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetroApp</string>
+    <string name="state">State</string>
+    <string name="login">Login</string>
+    <string name="id">ID</string>
+    <string name="repository_url">Repository Url</string>
+</resources>
